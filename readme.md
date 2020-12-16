@@ -2,6 +2,8 @@
 
 ## support promise，support cancel，same as xhr
 
+forked from AdonisLau/axios-jsonp
+
 ## install
 
 ```script
